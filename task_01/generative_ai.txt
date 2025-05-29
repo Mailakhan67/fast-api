@@ -1,0 +1,26 @@
+What is Generative AI?
+
+Task 01: Research on Generative AI
+
+Overview of Generative AI:
+Generative AI ek tarah ki artificial intelligence hai jo nayi cheezen banati hai. Yeh AI models ko train karta hai bohat saari data par, phir wo nayi text, images, audio, ya videos generate kar sakti hai.
+
+How it works:
+Generative AI deep learning techniques ka use karti hai. Ye AI data ke patterns ko samajh kar naye content create karti hai jo pehle data se milta julta hota hai, magar naya hota hai.
+
+Key Concepts:
+
+Deep Learning: Machine learning ka advanced form hai jisme neural networks use hotay hain, jo insan ke dimagh jaisa sochne ki koshish karta hai.
+
+Transformers: Ye ek neural network architecture hai jo language aur images ko samajhne aur generate karne ke liye bohat powerful hai. ChatGPT jaise models transformers par based hain.
+
+Diffusion Models: Ye models images ya audio ko step by step improve karte hain starting from noise, takay high-quality naya content banaya ja sake.
+
+Applications:
+
+Text Generation: Jaise ChatGPT, jahan AI naya text likhta hai sawalon ke jawab dene ya kahani banane ke liye.
+
+Image Generation: AI nayi tasveerain banata hai jaise DALL·E ya Midjourney.
+
+Audio Generation: AI music ya awaaz banata hai, jaise speech synthesis ya new songs create karna.
+
